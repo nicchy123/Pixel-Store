@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "price": 250,
+        "img": "../images/phone.jpg",
+        "name": "Pixel 1 Pro"
+    },
+    {
+        "id": "2",
+        "price": 250,
+        "img": "https://www.reliancedigital.in/medias/Realme-RMX3511-Mobile-Phone-492849560-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4MDk2OHxpbWFnZS9qcGVnfGltYWdlcy9oZTQvaGU4Lzk4MTY3OTcwODU3MjYuanBnfGMwZjhiZjU3ZmVjNmJiZjExMjZkNGMyY2I4NWVkZTJiYWI1NGZkZmUyMjEyZTNkNDFmY2FkZTQ3YmVlMDRiODc",
+        "name": "Realme C35"
+    },
+    {
+        "id": "3",
+        "price": 300,
+        "img": "https://d316acfc88wber.cloudfront.net/global/phones/spark9t/KH6----spark__9t__lan--800x800.png",
+        "name": "Tecno Mobiles"
+    },
+    {
+        "id": "4",
+        "price": 350,
+        "img": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno6-4g-oversea/listpage/Phone-List-Page-product-list-Aurora-427-x-600.png.thumb.webp",
+        "name": "Oppo Mobiles"
+    },
+    {
+        "id": "5",
+        "price": 300,
+        "img": "https://image01.realme.net/general/20220829/1661751475307.png",
+        "name": "Realme"
+    },
+    {
+        "id": "6",
+        "price": 250,
+        "img": "https://m.media-amazon.com/images/I/71aWa7AlLLL._AC_SX569_.jpg",
+        "name": "Iphone 12"
+    },
+    {
+        "id": "7",
+        "price": 250,
+        "img": "https://cdn1.smartprix.com/rx-iIa55V4wF-w1200-h1200/Ia55V4wF.jpg",
+        "name": "Realme C33"
+    },
+    {
+        "id": "8",
+        "price": 250,
+        "img": "https://image01.realme.net/general/20220923/1663912457344.png.webp",
+        "name": "realme GT NEO"
+    },
+    {
+        "id": "9",
+        "price": 200,
+        "img": "https://lh3.googleusercontent.com/whATsr4ihsKtCAsUkQ8WwQ_7jkArgcqfgR1JufXRfzCMRE-tDD1Iy9PQ2PXE18TGGOsujvZDF0jWRKv1ITOwqQ7PYv5s47g72D2y=rw-e365-w1182",
+        "name": "Pixel 7"
+    }
+
+]
